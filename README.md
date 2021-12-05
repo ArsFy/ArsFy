@@ -1,10 +1,13 @@
 # Hi there 👋
 
-![GB](https://flagcdn.com/w20/gb.png) English  ![HK](https://flagcdn.com/w20/hk.png) Cantonese  ![CN](https://flagcdn.com/w20/cn.png) Chinese
+![GB](https://flagcdn.com/w20/gb.png) English  ![HK](https://flagcdn.com/w20/hk.png) Cantonese  ![CN](https://flagcdn.com/w20/cn.png) Chinese ![JP](https://flagcdn.com/w20/jp.png) Japanese 
 
 I’m ArsFy, full-stack development from Hong Kong
 
 -----
+
+### Email
+**OutLook:** [arsfy@outlook.com](mailto:arsfy@outlook.com) 
 
 ### Develompment Language
 - **Back End:**
@@ -17,5 +20,3 @@ html, javascript, css, react
 - VS
 - Android Studio
 - Vim
-
-### 
