@@ -10,9 +10,9 @@ I’m ArsFy, full-stack development from Hong Kong
 **OutLook:** [arsfy@outlook.com](mailto:arsfy@outlook.com) 
 
 ### Develompment Language
-- **Back End:**
+- **BackEnd:**
 C, C++, Java, Golang, Nodejs, php, Python
-- **Front End:**
+- **Front:**
 html, javascript, css, react
 
 ### Develompment Software
