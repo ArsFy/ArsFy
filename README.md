@@ -11,7 +11,7 @@ I’m ArsFy, full-stack development from Hong Kong
 
 ### Develompment Language
 - **BackEnd:**
-C, C++, Java, Golang, Nodejs, php, Python
+C, C++, Java, Golang, NodeJS, php, Python
 - **FrontEnd:**
 html, javascript, css, react
 
