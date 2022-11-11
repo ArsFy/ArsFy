@@ -6,6 +6,8 @@ I’m ArsFy, full-stack development from Hong Kong
 
 -----
 
+<img title="ArsFy's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ArsFy&show_icons=true&count_private=true" align="right" />
+
 ### Email
 **OutLook:** [arsfy@outlook.com](mailto:arsfy@outlook.com) 
 
