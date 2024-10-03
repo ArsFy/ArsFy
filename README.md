@@ -8,9 +8,6 @@ I’m ArsFy, full-stack development
 
 <img title="ArsFy's GitHub stats" src="https://github.com/ArsFy/github-stats/blob/master/generated/overview.svg" align="right" />
 
-### Email
-**OutLook:** [arsfy@outlook.com](mailto:arsfy@outlook.com) 
-
 ### Dev
 - Architecture design
 - Web Full stack
