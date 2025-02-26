@@ -29,3 +29,7 @@ I’m ArsFy, full-stack development
 ![](https://img.shields.io/badge/🇭🇰-Cantonese-red)
 ![](https://img.shields.io/badge/🇨🇳-Mandarin-red)
 ![](https://img.shields.io/badge/🇯🇵-Japanese-white)
+
+<div align="right">
+  <img title="ArsFy's GitHub Languages" src="https://raw.githubusercontent.com/Arsfy/github-stats/master/generated/languages.svg" width="380px" height="210px" />
+</div>
