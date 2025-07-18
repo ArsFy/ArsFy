@@ -7,19 +7,23 @@ I’m ArsFy, backend (full-stack) development
 <img title="ArsFy's GitHub stats" src="https://github.com/ArsFy/github-stats/blob/master/generated/overview.svg" align="right" width="380px" height="210px" />
 
 ### Backend
-<img style="max-height: 40px; max-width: calc(100% - 400px)" src="https://skillicons.dev/icons?theme=dark&i=go,c,cpp,nodejs,ts,py,kotlin,java,php,swift,rust" />
+<img style="max-height: 40px;" src="https://skillicons.dev/icons?theme=dark&i=go,c,cpp,nodejs,ts,py,kotlin,java" />
+
+<img style="max-height: 40px;" src="https://skillicons.dev/icons?theme=dark&i=php,swift,rust" />
 
 ### Frontend
-<img style="max-height: 40px; max-width: calc(100% - 400px)" src="https://skillicons.dev/icons?theme=dark&i=ts,js,html,css,react,bun,vite,tailwind" />
+<img style="max-height: 40px;" src="https://skillicons.dev/icons?theme=dark&i=ts,js,html,css,react,bun,vite,tailwind" />
 
 ### Tools & DevOps & Runtimes
-<img style="max-height: 40px; max-width: calc(100% - 400px)" src="https://skillicons.dev/icons?theme=dark&i=postgres,mongodb,sqlite,mysql,redis,prisma,git,opencv,pytorch,tensorflow" />
+<img style="max-height: 40px;" src="https://skillicons.dev/icons?theme=dark&i=postgres,mongodb,sqlite,mysql,redis,prisma,git,opencv" />
+
+<img style="max-height: 40px;" src="https://skillicons.dev/icons?theme=dark&i=pytorch,tensorflow" />
 
 ### SaaS & PaaS & IaaS
-<img style="max-height: 40px; max-width: calc(100% - 400px)" src="https://skillicons.dev/icons?theme=dark&i=github,gitlab,firebase,supabase,cloudflare,workers,heroku" />
+<img style="max-height: 40px;" src="https://skillicons.dev/icons?theme=dark&i=github,gitlab,firebase,supabase,cloudflare,workers,heroku" />
 
 ### Other Platforms
-<img style="max-height: 40px; max-width: calc(100% - 400px)" src="https://skillicons.dev/icons?theme=dark&i=androidstudio,flutter,godot,unity,matlab,docker,k8s" />
+<img style="max-height: 40px;" src="https://skillicons.dev/icons?theme=dark&i=androidstudio,flutter,godot,unity,matlab,docker,k8s" />
 
 
 ### Lang
