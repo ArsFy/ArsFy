@@ -1,28 +1,26 @@
 # Hi there 👋
 
-I’m ArsFy, full-stack development
+I’m ArsFy, backend (full-stack) development
 
 -----
 
 <img title="ArsFy's GitHub stats" src="https://github.com/ArsFy/github-stats/blob/master/generated/overview.svg" align="right" width="380px" height="210px" />
 
-### Dev
-![](https://img.shields.io/badge/Golang-BE-blue)
-![](https://img.shields.io/badge/NodeJS-BE-green)
-![](https://img.shields.io/badge/Java-BE-orange)
-![](https://img.shields.io/badge/C-BE-blue)
-![](https://img.shields.io/badge/Kotlin-BE-purple)
-![](https://img.shields.io/badge/Python-BE-blue)
-![](https://img.shields.io/badge/Shell-SC-yellow)
-![](https://img.shields.io/badge/React-FE-blue)
-![](https://img.shields.io/badge/Tailwind-FE-cyan)
-![](https://img.shields.io/badge/Flutter-AP-blue)
-![](https://img.shields.io/badge/Android-AP-green)
-![](https://img.shields.io/badge/MySQL-DB-green)
-![](https://img.shields.io/badge/PGSQL-DB-blue)
-![](https://img.shields.io/badge/Redis-DB-red)
-![](https://img.shields.io/badge/Mongo-DB-green)
-![](https://img.shields.io/badge/Oracle-DB-red)
+### Backend
+<img style="max-height: 40px; max-width: calc(100% - 400px)" src="https://skillicons.dev/icons?theme=dark&i=go,c,cpp,nodejs,ts,py,kotlin,java,php,swift,rust" />
+
+### Frontend
+<img style="max-height: 40px; max-width: calc(100% - 400px)" src="https://skillicons.dev/icons?theme=dark&i=ts,js,html,css,react,bun,vite,tailwind" />
+
+### Tools & DevOps & Runtimes
+<img style="max-height: 40px; max-width: calc(100% - 400px)" src="https://skillicons.dev/icons?theme=dark&i=postgres,mongodb,sqlite,mysql,redis,prisma,git,opencv,pytorch,tensorflow" />
+
+### SaaS & PaaS & IaaS
+<img style="max-height: 40px; max-width: calc(100% - 400px)" src="https://skillicons.dev/icons?theme=dark&i=github,gitlab,firebase,supabase,cloudflare,workers,heroku" />
+
+### Other Platforms
+<img style="max-height: 40px; max-width: calc(100% - 400px)" src="https://skillicons.dev/icons?theme=dark&i=androidstudio,flutter,godot,unity,matlab,docker,k8s" />
+
 
 ### Lang
 ![](https://img.shields.io/badge/🇬🇧-English-blue)
