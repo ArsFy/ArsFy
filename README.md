@@ -15,9 +15,7 @@ I’m ArsFy, backend (full-stack) development
 <img style="max-height: 40px;" src="https://skillicons.dev/icons?theme=dark&i=ts,js,html,css,react,bun,vite,tailwind" />
 
 ### Tools & DevOps & Runtimes
-<img style="max-height: 40px;" src="https://skillicons.dev/icons?theme=dark&i=postgres,mongodb,sqlite,mysql,redis,prisma,git,opencv" />
-
-<img style="max-height: 40px;" src="https://skillicons.dev/icons?theme=dark&i=pytorch,tensorflow" />
+<img style="max-height: 40px;" src="https://skillicons.dev/icons?theme=dark&i=postgres,mongodb,sqlite,mysql,redis,prisma,git,opencv,pytorch,tensorflow" />
 
 ### SaaS & PaaS & IaaS
 <img style="max-height: 40px;" src="https://skillicons.dev/icons?theme=dark&i=github,gitlab,firebase,supabase,cloudflare,workers,heroku" />
