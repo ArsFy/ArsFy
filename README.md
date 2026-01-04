@@ -12,13 +12,10 @@ I’m ArsFy, backend (full-stack) development
 <img style="max-height: 40px;" src="https://skillicons.dev/icons?theme=dark&i=php,swift,rust" />
 
 ### Frontend
-<img style="max-height: 40px;" src="https://skillicons.dev/icons?theme=dark&i=ts,js,html,css,react,bun,vite,tailwind" />
+<img style="max-height: 40px;" src="https://skillicons.dev/icons?theme=dark&i=ts,js,html,css,react,tailwind" />
 
 ### Tools & DevOps & Runtimes
-<img style="max-height: 40px;" src="https://skillicons.dev/icons?theme=dark&i=postgres,mongodb,sqlite,mysql,redis,prisma,git,opencv,pytorch,tensorflow" />
-
-### SaaS & PaaS & IaaS
-<img style="max-height: 40px;" src="https://skillicons.dev/icons?theme=dark&i=github,gitlab,firebase,supabase,cloudflare,workers,heroku" />
+<img style="max-height: 40px;" src="https://skillicons.dev/icons?theme=dark&i=postgres,mongodb,sqlite,mysql,redis,git" />
 
 ### Other Platforms
 <img style="max-height: 40px;" src="https://skillicons.dev/icons?theme=dark&i=androidstudio,flutter,godot,unity,matlab,docker,k8s" />
