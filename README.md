@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m ArsFy, backend (full-stack) development
+I’m ArsFy, backend (full-stack) developer
 
 -----
 
